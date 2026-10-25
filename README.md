@@ -1,3 +1,13 @@
+## Français
+
+Contrats intelligents du protocole Lido DAO. Exemple : étudier les contrats et leurs tests pour comprendre les mécanismes on-chain ; ne déployez ni n’interagissez avec des fonds sans audit et validation.
+
+## English
+
+Smart contracts for the Lido DAO protocol. Example: study the contracts and tests to understand on-chain mechanisms; do not deploy or interact with funds without audit and validation.
+
+---
+
 <div>
     <img alt="Lido" src="https://img.shields.io/badge/v3.0.2-version?label=lido&labelColor=rgb(91%2C%20162%2C%20252)&color=white"/>
     <img alt="GitHub license" src="https://img.shields.io/github/license/lidofinance/lido-dao?labelColor=orange&color=white"/>
